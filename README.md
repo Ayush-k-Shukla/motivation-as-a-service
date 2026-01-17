@@ -2,6 +2,8 @@
 
 A backend service that provides motivation quotes based on different modes.
 
+**Live Deployment:** [https://motivation-as-a-service.onrender.com](https://motivation-as-a-service.onrender.com)
+
 ## Features
 - **Multiple Modes**: Positive, Brutal, Developer, Corporate, Indian.
 
